@@ -1,11 +1,11 @@
-Chocolate Duke3D
-================
+Cpp Duke3D
+==========
 
-Chocolate Duke Nukem 3D is the equivalent of [Chocolate Doom](http://www.chocolate-doom.org/wiki/index.php/Chocolate_Doom).
+Cpp Duke Nukem 3D is a fork from [Chocolate Duke3D](https://github.com/fabiansanglard/chocolate_duke3d). 
 
 A **port** that:
 
-1. Remains as faithful as possible to the original source code.
+1. Compiles with modern C++ 
 2. Portable and compiling in one click on Windows, OS X and Linux.
 3. Aimed at education, with lots of comments and documentation added in order to help programmers to understand and learn.
 

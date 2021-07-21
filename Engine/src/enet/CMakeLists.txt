@@ -7,4 +7,5 @@ add_library(enet STATIC
   protocol.c
   unix.c
   win32.c)
-target_include_directories(${CMAKE_CURRENT_SOURCE_DIR}/include)
+
+target_include_directories(enet PUBLIC ${CMAKE_CURRENT_SOURCE_DIR}/include)
